@@ -80,7 +80,7 @@ footer {
     position: fixed;
     bottom: 0;
     width: 100%;
-      height: 2rem;
+    height: 2rem;
 }
 
 footer p {
@@ -88,4 +88,3 @@ footer p {
     font-size: 0.6rem;
     margin-top: 0.5rem;
 }
- 
